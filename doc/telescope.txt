@@ -2864,6 +2864,11 @@ actions.git_switch_branch({prompt_bufnr}) *telescope.actions.git_switch_branch()
         {prompt_bufnr} (number)  The prompt bufnr
 
 
+actions.git_rename_branch()            *telescope.actions.git_rename_branch()*
+    Action to rename selected git branch
+
+
+
 actions.git_track_branch({prompt_bufnr}) *telescope.actions.git_track_branch()*
     Tell git to track the currently selected remote branch in Telescope
 
